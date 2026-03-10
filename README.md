@@ -57,3 +57,15 @@ Each project demonstrates the investigation process used by SOC analysts to dete
 ## Goal
 
 My goal is to build a career as a SOC Analyst and contribute to defending organizations from cyber threats through monitoring, detection, and incident response.
+## Portfolio Structure
+
+This repository contains documented SOC investigation scenarios based on common attack patterns.
+
+Projects included:
+
+1. Brute Force Attack Investigation
+2. Malware Command and Control Detection
+3. Ransomware Activity Detection
+4. Webshell Upload and Execution Investigation
+5. DNS Tunneling Detection
+6. Persistence via Scheduled Task
